@@ -9,18 +9,16 @@ using System.Windows.Forms;
 
 namespace Csharp
 {
-    public partial class Form2 : Form
+    public partial class Form3 : Form
     {
-        public Form2()
+        public Form3()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form3 fm1 = new Form3();
-            fm1.Show();
-            this.Hide();
+            
         }
     }
 }
