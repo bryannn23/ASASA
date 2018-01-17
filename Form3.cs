@@ -19,8 +19,8 @@ namespace Csharp
         private void button1_Click(object sender, EventArgs e)
         {
             Form1 fm1 = new Form1();
-            fm1.show();
-            this.hide();
+            fm1.Show();
+            this.Hide();
         }
     }
 }

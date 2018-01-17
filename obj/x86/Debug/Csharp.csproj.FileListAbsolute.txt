@@ -7,3 +7,4 @@ C:\Users\bryan\Desktop\p3 updated\Csharp\Csharp\obj\x86\Debug\Csharp.Properties.
 C:\Users\bryan\Desktop\p3 updated\Csharp\Csharp\obj\x86\Debug\Csharp.csproj.GenerateResource.Cache
 C:\Users\bryan\Desktop\p3 updated\Csharp\Csharp\obj\x86\Debug\Csharp.exe
 C:\Users\bryan\Desktop\p3 updated\Csharp\Csharp\obj\x86\Debug\Csharp.pdb
+C:\Users\bryan\Desktop\p3 updated\Csharp\Csharp\obj\x86\Debug\Csharp.csprojResolveAssemblyReference.cache
